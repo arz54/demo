@@ -56,7 +56,7 @@ pannellum.viewer('panorama', {
         "hall": {
             "title": "Hall d'entrée",
             "type": "equirectangular",
-            "panorama": "arz54.github.io/demo/static/scene_2.JPG",
+            "panorama": "static/scene_2.JPG",
             "yaw": 125,
             "hfov": 120,
             "horizonRoll": -1,
@@ -74,7 +74,7 @@ pannellum.viewer('panorama', {
         "hall_2": {
             "title": "hall nouveau batiment",
             "type": "equirectangular",
-            "panorama": "arz54.github.io/demo/static/scene_3.JPG",
+            "panorama": "static/scene_3.JPG",
             "horizonRoll": 5.2,
             "hfov": 120,
             "hotSpots": [
@@ -95,7 +95,7 @@ pannellum.viewer('panorama', {
 
         "facade_nouveau_batiment": {
             "type": "equirectangular",
-            "panorama": "arz54.github.io/demo/static/scene_4.JPG",
+            "panorama": "static/scene_4.JPG",
             "horizonRoll": 5.4,
             "hfov": 120,
             "yaw": 2,
