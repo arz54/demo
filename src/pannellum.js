@@ -3,7 +3,7 @@ pannellum.viewer('panorama', {
         "firstScene":  "entree",
         autoLoad : true,
         showControls: true,
-        preview: "/static/scene_1.JPG",
+        preview: "arz54.github.io/demo/static/scene_1.JPG",
         "sceneFadeDuration": 1000,
         "compass":false
     },
@@ -12,7 +12,7 @@ pannellum.viewer('panorama', {
         "entree": {
             "title": "Université d'Avignon",
             "type": "equirectangular",
-            "panorama": "/static/scene_1.JPG",
+            "panorama": "arz54.github.io/demo/static/scene_1.JPG",
             "horizonRoll" : 3.6,
             "yaw": 168, 
             "hfov": 130,
@@ -56,7 +56,7 @@ pannellum.viewer('panorama', {
         "hall": {
             "title": "Hall d'entrée",
             "type": "equirectangular",
-            "panorama": "/static/scene_2.JPG",
+            "panorama": "arz54.github.io/demo/static/scene_2.JPG",
             "yaw": 125,
             "hfov": 120,
             "horizonRoll": -1,
@@ -74,7 +74,7 @@ pannellum.viewer('panorama', {
         "hall_2": {
             "title": "hall nouveau batiment",
             "type": "equirectangular",
-            "panorama": "/static/scene_3.JPG",
+            "panorama": "arz54.github.io/demo/static/scene_3.JPG",
             "horizonRoll": 5.2,
             "hfov": 120,
             "hotSpots": [
@@ -95,7 +95,7 @@ pannellum.viewer('panorama', {
 
         "facade_nouveau_batiment": {
             "type": "equirectangular",
-            "panorama": "/static/scene_4.JPG",
+            "panorama": "arz54.github.io/demo/static/scene_4.JPG",
             "horizonRoll": 5.4,
             "hfov": 120,
             "yaw": 2,
