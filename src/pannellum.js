@@ -88,6 +88,7 @@ pannellum.viewer('panorama', {
                     "pitch": -11.18,
                     "yaw": -176.97,
                     "type": "scene",
+                    "text": "Extérieur",
                     "sceneId": "facade_nouveau_batiment",
                 }
             ]
