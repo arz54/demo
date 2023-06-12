@@ -3,7 +3,7 @@ pannellum.viewer('panorama', {
         "firstScene":  "entree",
         autoLoad : true,
         showControls: true,
-        preview: "/demo/static/scene_1.JPG",
+        preview: "../static/scene_1.JPG",
         "sceneFadeDuration": 1000,
         "compass":false
     },
@@ -12,7 +12,7 @@ pannellum.viewer('panorama', {
         "entree": {
             "title": "Université d'Avignon",
             "type": "equirectangular",
-            "panorama": "arz54.github.io/demo/static/scene_1.JPG",
+            "panorama": "../static/scene_1.JPG",
             "horizonRoll" : 3.6,
             "yaw": 168, 
             "hfov": 130,
