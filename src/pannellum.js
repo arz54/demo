@@ -3,7 +3,7 @@ pannellum.viewer('panorama', {
         "firstScene":  "entree",
         autoLoad : true,
         showControls: true,
-        preview: "arz54.github.io/demo/static/scene_1.JPG",
+        preview: "/demo/static/scene_1.JPG",
         "sceneFadeDuration": 1000,
         "compass":false
     },
